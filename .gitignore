@@ -1,0 +1,5 @@
+.env
+venv
+db
+output.md
+__py*
